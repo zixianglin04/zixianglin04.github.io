@@ -21,6 +21,15 @@ _I love anime, music, and physics._
 
 ### Gaming Achievements
 
-- _#30,000_ Global Ranking in [**_osu!_**](https://osu.ppy.sh/users/37428372)
+- *#30,000* Global Ranking in [**_osu!_**](https://osu.ppy.sh/users/37428372)
+- *Hard Mode* Passed in [**_Touhou Fuujinroku ~ Mountain of Faith._**](https://store.steampowered.com/app/1100140)
+- *100%* Completion in [**_ASTLIBRA Revision_**](https://store.steampowered.com/app/1718570&#41)
 
-[//]: # (- 100% Achievements in [**_ASTLIBRA Revision_**]&#40;https://store.steampowered.com/app/1718570&#41;)
+### Concerts & Lives Enjoyed
+
+- *Bach, Mendelssohn & Dvořák Choral and Orchestral Works Concert* (2025, Shanghai)
+- *marasy Piano Live Asia Tour Prelive* (2024, Shanghai)
+- *12th Shanghai THONLY Live* (2024, Shanghai)
+- *Gautier Capuçon Cello Recital* (2024, Shanghai)
+- *11th Shanghai THONLY Live* (2023, Shanghai)
+- *Animenz Live* (2023, Shanghai)
