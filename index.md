@@ -27,9 +27,10 @@ _I love anime, music, and physics._
 
 ### Concerts & Lives Enjoyed
 
+- *Violin Recital by <u>Joshua Bell</u>* (2025, Shanghai)
 - *Bach, Mendelssohn & Dvořák Choral and Orchestral Works Concert* (2025, Shanghai)
-- *marasy Piano Live Asia Tour Prelive* (2024, Shanghai)
+- *<u>marasy</u> Piano Live Asia Tour Prelive* (2024, Shanghai)
 - *12th Shanghai THONLY Live* (2024, Shanghai)
-- *Gautier Capuçon Cello Recital* (2024, Shanghai)
+- *<u>Gautier Capuçon</u> Cello Recital* (2024, Shanghai)
 - *11th Shanghai THONLY Live* (2023, Shanghai)
-- *Animenz Live* (2023, Shanghai)
+- *<u>Animenz</u> Live* (2023, Shanghai)
