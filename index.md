@@ -31,6 +31,7 @@ _I love anime, music, and physics._
 - *Bach, Mendelssohn & Dvořák Choral and Orchestral Works Concert* (2025, Shanghai)
 - *<u>marasy</u> Piano Live Asia Tour Prelive* (2024, Shanghai)
 - *12th Shanghai THONLY Live* (2024, Shanghai)
-- *<u>Gautier Capuçon</u> Cello Recital* (2024, Shanghai)
+- *"Spring Time" Copenhagen Ancient Orchestra Concert* (2024, Shanghai)
 - *11th Shanghai THONLY Live* (2023, Shanghai)
 - *<u>Animenz</u> Live* (2023, Shanghai)
+- *<u>Gautier Capuçon</u> Cello Recital* (2024, Shanghai)
