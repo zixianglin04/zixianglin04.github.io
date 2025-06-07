@@ -23,7 +23,7 @@ _I love anime, music, and physics._
 
 ### Gaming Achievements
 
-- *#30,000* Global Ranking in [**_osu!_**](https://osu.ppy.sh/users/37428372)
+- *#310,000* Global Ranking in [**_osu!_**](https://osu.ppy.sh/users/37428372)
 - *Hard Mode* Passed in [**_Touhou Fuujinroku ~ Mountain of Faith._**](https://store.steampowered.com/app/1100140)
 - *100%* Completion in [**_ASTLIBRA Revision_**](https://store.steampowered.com/app/1718570&#41)
 
