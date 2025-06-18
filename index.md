@@ -23,7 +23,7 @@ _I love anime, music, and physics._
 
 ### Gaming Achievements
 
-- *#310,000* Global Ranking in [**_osu!_**](https://osu.ppy.sh/users/37428372)
+- *#30,000* Global Ranking in [**_osu!_**](https://osu.ppy.sh/users/37428372)
 - *Hard Mode* Passed in [**_Touhou Fuujinroku ~ Mountain of Faith._**](https://store.steampowered.com/app/1100140)
 - *100%* Completion in [**_ASTLIBRA Revision_**](https://store.steampowered.com/app/1718570&#41)
 
@@ -42,6 +42,12 @@ _I love anime, music, and physics._
 - *<u>Animenz</u> Live* (2023, Shanghai)
 - *<u>Gautier Capuçon</u> Cello Recital* (2023, Shanghai)
 
+### Fun Facts
+
+- Have a Pug *<u>Pi-Pi</u>* at Home. She is as lazy as me.
+- Used to participate in Chinese Physics Olympiad (CPhO) as a member of the Zhejiang Team for two years but only won bronze and silver medals.
+
 ### Gallery
 
 {% include_relative _includes/gallery.md %}
+
