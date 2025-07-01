@@ -30,7 +30,7 @@ _I love anime, music, and physics._
 ### Concerts & Lives Enjoyed
 
 - [UPCOMING] *Poppin'Party Global LIVE 2025 "Shiny High-Five!!"* (2025, Shanghai) 
-- [UPCOMING] *13th Shanghai THONLY Live* (2025, Shanghai)
+- [UPCOMING] *<u>Wang Jian</u> Plays Bach's Cello Suites* (2025, Shanghai)
 - [UPCOMING] *Key Symphonic Concert* (2025, Shanghai)
 - *Violin Recital by <u>Joshua Bell</u>* (2025, Shanghai)
 - *Bach, Mendelssohn & Dvořák Choral and Orchestral Works Concert* (2025, Shanghai)
