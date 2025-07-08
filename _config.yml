@@ -6,9 +6,9 @@ email: linzixiang [at] sjtu.edu.cn
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Zixiang Lin, Zixiang Lin SJTU, personal website, soft matter, hydrodynamics, biophysics, Zixiang Lin GitHub
+description: The personal website of Zixiang Lin, featuring publications, experiences and personal info.
+canonical: https://zixianglin04.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -20,9 +20,9 @@ github_link: https://github.com/zixianglin04
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar-zxlin.png
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+avatar: /assets/img/avatar-zxlin.png
+favicon: /assets/img/favicon.png
+favicon_dark: /assets/img/favicon-dark.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
