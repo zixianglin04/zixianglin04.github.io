@@ -73,6 +73,7 @@ permalink: /game-wall/
 <!--- Tower Defense Games --->
 <div class="game-grid">
   <div class="game-card"><img src="https://steam-record-card.vercel.app/api?steam_id=76561199030641631&appid=701160"/></div>
+  <div class="game-card"><img src="https://steam-record-card.vercel.app/api?steam_id=76561199030641631&appid=688420"/></div>
 </div>
 
 <!--- Visual Novels --->
@@ -95,6 +96,7 @@ permalink: /game-wall/
 <!--- Card Games --->
 <div class="game-grid">
   <div class="game-card"><img src="https://steam-record-card.vercel.app/api?steam_id=76561199030641631&appid=1329410"/></div>
+  <div class="game-card"><img src="https://steam-record-card.vercel.app/api?steam_id=76561199030641631&appid=718670"/></div>
 </div>
 
 <div class="game-grid">
