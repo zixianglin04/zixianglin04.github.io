@@ -17,6 +17,8 @@ _I love anime, music, and physics._
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/presentations.md %}
+
 {% include_relative _includes/teaching-experiences.md %}
 
 ## Misc
@@ -27,18 +29,7 @@ _I love anime, music, and physics._
 
 ### Concerts & Lives Enjoyed
 
-<!-- - [UPCOMING] *Poppin'Party Global LIVE 2025 "Shiny High-Five!!"* (2025, Shanghai)  -->
-<!-- - [UPCOMING] *<u>Wang Jian</u> Plays Bach's Cello Suites* (2025, Shanghai) -->
-- *Key Symphonic Concert* (2025, Shanghai)
-- *Violin Recital by <u>Joshua Bell</u>* (2025, Shanghai)
-- *Bach, Mendelssohn & Dvořák Choral and Orchestral Works Concert* (2025, Shanghai)
-- *<u>marasy</u> Piano Live Asia Tour Prelive* (2024, Shanghai)
-- *12th Shanghai THONLY Live* (2024, Shanghai)
-- *"Spring Time" Copenhagen Ancient Orchestra Concert* (2024, Shanghai)
-- *Neeme Järvi & Belgrade Philharmonic Orchestra Symphonic Concert* (2023, Shanghai)
-- *11th Shanghai THONLY Live* (2023, Shanghai)
-- *<u>Animenz</u> Live* (2023, Shanghai)
-- *<u>Gautier Capuçon</u> Cello Recital* (2023, Shanghai)
+{% include_relative _includes/concerts.md %}
 
 ### Fun Facts
 
