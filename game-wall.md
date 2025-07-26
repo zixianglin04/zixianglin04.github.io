@@ -68,6 +68,7 @@ permalink: /game-wall/
 <!--- Rogue-Like Games --->
 <div class="game-grid">
   <div class="game-card"><img src="https://steam-record-card.vercel.app/api?steam_id=76561199030641631&appid=632360"/></div>
+  <div class="game-card"><img src="https://steam-record-card.vercel.app/api?steam_id=76561199030641631&appid=588650"/></div>
 </div>
 
 <!--- Tower Defense Games --->
@@ -81,6 +82,11 @@ permalink: /game-wall/
   <div class="game-card"><img src="https://steam-record-card.vercel.app/api?steam_id=76561199030641631&appid=2396980"/></div>
   <div class="game-card"><img src="https://steam-record-card.vercel.app/api?steam_id=76561199030641631&appid=412830"/></div>  
   <div class="game-card"><img src="https://steam-record-card.vercel.app/api?steam_id=76561199030641631&appid=825630"/></div>
+</div>
+
+<!--- No-action RPGs --->
+<div class="game-grid">
+  <div class="game-card"><img src="https://steam-record-card.vercel.app/api?steam_id=76561199030641631&appid=632470"/></div>
 </div>
 
 <!--- Detective Games --->
@@ -97,6 +103,7 @@ permalink: /game-wall/
 <div class="game-grid">
   <div class="game-card"><img src="https://steam-record-card.vercel.app/api?steam_id=76561199030641631&appid=1329410"/></div>
   <div class="game-card"><img src="https://steam-record-card.vercel.app/api?steam_id=76561199030641631&appid=718670"/></div>
+  <div class="game-card"><img src="https://steam-record-card.vercel.app/api?steam_id=76561199030641631&appid=2379780"/></div>
 </div>
 
 <div class="game-grid">
