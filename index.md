@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a junior student at [Global College](https://www.ji.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), majoring in Electrical and Computer Engineering, minoring in Data Science. I am doing research on soft materials and living systems in [Qu Lab](https://sites.ji.sjtu.edu.cn/zijie-qu/group/).
+I am a junior student at [Global College](https://www.ji.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), majoring in Electrical and Computer Engineering, minoring in Computer Science and Data Science. I am doing research on soft materials and living systems in [Qu Lab](https://sites.ji.sjtu.edu.cn/zijie-qu/group/).
 
 
 _I love anime, music, and physics._
@@ -23,13 +23,9 @@ _I love anime, music, and physics._
 
 ## Misc
 
-### Gaming Achievements
+### [Gaming Achievements](/games/)
 
-{% include_relative _includes/game.md %}
-
-### Concerts & Lives Enjoyed
-
-{% include_relative _includes/concerts.md %}
+### [Concerts & Lives Enjoyed](/concerts/)
 
 ### Fun Facts
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /game-wall/
+permalink: /games/
 ---
 <style>
     .game-grid {
@@ -34,7 +34,15 @@ permalink: /game-wall/
 }
 </style>
 
-# Game Wall
+# ENJOYED GAMES
+
+## osu!
+
+<a href="https://osu.ppy.sh/u/Saki_Rin">
+  <img src="https://osu-sig.vercel.app/card?user=Saki_Rin&mode=std&lang=en&animation=true&mini=true" width="300"/>
+</a>
+
+## Steam
 
 <!--- Sandbox Games --->
 <div class="game-grid">
