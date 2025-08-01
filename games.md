@@ -36,13 +36,13 @@ permalink: /games/
 
 # ENJOYED GAMES
 
-## osu!
+### <img src="https://img.icons8.com/doodle/48/osu.png" alt="osu"/>
 
 <a href="https://osu.ppy.sh/u/Saki_Rin">
   <img src="https://osu-sig.vercel.app/card?user=Saki_Rin&mode=std&lang=en&animation=true&mini=true" width="300"/>
 </a>
 
-## Steam
+### <img src="https://img.icons8.com/doodle/48/steam-circled.png" alt="steam-circled"/>
 
 <!--- Sandbox Games --->
 <div class="game-grid">
@@ -64,6 +64,7 @@ permalink: /games/
 <!--- JRPGs --->
 <div class="game-grid">
   <div class="game-card"><img src="https://steam-record-card.vercel.app/api?steam_id=76561199030641631&appid=1718570"/></div>
+  <div class="game-card"><img src="https://steam-record-card.vercel.app/api?steam_id=76561199030641631&appid=921570"/></div>
   <div class="game-card"><img src="https://steam-record-card.vercel.app/api?steam_id=76561199030641631&appid=1121560"/></div>
 </div>
 

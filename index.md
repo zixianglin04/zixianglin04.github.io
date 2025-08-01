@@ -26,13 +26,3 @@ _I love anime, music, and physics._
 ### [Gaming Achievements](/games/)
 
 ### [Concerts & Lives Enjoyed](/concerts/)
-
-### Fun Facts
-
-- Have a Pug *<u>Pi-Pi</u>* at Home. She is as lazy as me.
-- Used to participate in Chinese Physics Olympiad (CPhO) as a member of the Zhejiang Team for two years but only won bronze and silver medals.
-
-### Gallery
-
-{% include_relative _includes/gallery.md %}
-
