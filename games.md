@@ -39,7 +39,7 @@ permalink: /games/
 ### <img src="https://img.icons8.com/doodle/48/osu.png" alt="osu"/>
 
 <a href="https://osu.ppy.sh/u/Saki_Rin">
-  <img src="https://osu-sig.vercel.app/card?user=Saki_Rin&mode=std&lang=en&animation=true&mini=true" width="300"/>
+  <img src="https://osu-sig.vercel.app/card?user=Saki_Rin&mode=std&lang=en&animation=true&mini=true" width="320"/>
 </a>
 
 ### <img src="https://img.icons8.com/doodle/48/steam-circled.png" alt="steam-circled"/>
