@@ -101,11 +101,13 @@ permalink: /games/
 <!--- Detective Games --->
 <div class="game-grid">
   <div class="game-card"><img src="https://steam-record-card.vercel.app/api?steam_id=76561199030641631&appid=787480"/></div>
+  <div class="game-card"><img src="https://steam-record-card.vercel.app/api?steam_id=76561199030641631&appid=1967430"/></div>
 </div>
 
 <!--- Touhou Games --->
 <div class="game-grid">
   <div class="game-card"><img src="https://steam-record-card.vercel.app/api?steam_id=76561199030641631&appid=1100140"/></div>
+  <div class="game-card"><img src="https://steam-record-card.vercel.app/api?steam_id=76561199030641631&appid=937580"/></div>
 </div>
 
 <!--- Card Games --->

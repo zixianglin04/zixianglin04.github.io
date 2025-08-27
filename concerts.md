@@ -7,8 +7,8 @@ permalink: /concerts/
 
 ### 2025
 
-<!-- - [UPCOMING] *Poppin'Party Global LIVE 2025 "Shiny High-Five!!"* (Shanghai) -->
 <!-- - [UPCOMING] *<u>Wang Jian</u> Plays Bach's Cello Suites* (Shanghai) -->
+- *Poppin'Party Global LIVE 2025 "Shiny High-Five!!"* (Shanghai)
 - *Key Symphonic Concert* (Shanghai)
 - *Violin Recital by <u>Joshua Bell</u>* (Shanghai)
 - *Bach, Mendelssohn & Dvořák Choral and Orchestral Works Concert* (Shanghai)
