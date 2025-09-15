@@ -1,6 +1,0 @@
-@article{li2025hydrodynamic,
-  title={Hydrodynamic Interaction and Geometric Memory Effect Drive Directed Swimming of Chlamydomonas reinhardtii near Periodic Microstructures},
-  author={Li, Chunhe and Bian, Hongyi and Lin, Zixiang and Man, Yi and Qu, Zijie},
-  journal={arXiv preprint arXiv:2503.08376},
-  year={2025}
-}
